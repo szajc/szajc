@@ -9,6 +9,7 @@
 ### Connect with me:
 
 [<img align="left" alt="szajc | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="szajc | Ionic" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ionic.svg" />][linkedin]
 
 <br />
 
