@@ -1,7 +1,5 @@
 ### Hi there, I'm Stojan - [website] 👋
 
-[![Website](https://szajc.github.io/Portfolio/)]
-
 ## I'm a Developer!!
 
 - 🌱 I’m currently learning everything (React, node, MongoDB, ...rest)🤣
