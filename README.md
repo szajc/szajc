@@ -1,9 +1,8 @@
-### Hi there, I'm Stojan - [website] 👋
+### Hi there, I'm Stojan 
 
 ## I'm a Developer!!
 
 - 🌱 I’m currently learning everything (React, node, MongoDB, ...rest)🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play football, hiking in great outdoors and reading books
 
 ### Connect with me:
@@ -28,9 +27,5 @@
 
 <br />
 <br />
-
 ---
-
-[website]: https://szajc.github.io/Portfolio/
 [linkedin]: https://www.linkedin.com/in/stojan-zajc-a1657817a/
-[codepen]: https://codepen.io/szSheep/
